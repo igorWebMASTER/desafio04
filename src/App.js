@@ -1,10 +1,17 @@
 import React from 'react';
-import './App.css'
+import './App.css';
+import logo from './assets/facebook-1.png';
 
-import TechList from './components/TechList';
+import Header from './components/Header';
+import PostList from './components/PostList';
 
 function App(){
-  return <TechList />
+  return (
+   <>
+     <Header />
+     <PostList />
+  </>
+  );
 }
 
 export default App;
