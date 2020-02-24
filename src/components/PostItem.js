@@ -8,7 +8,6 @@ function PostHeader({ author, date }) {
       <div className='details'>
         <span>{author.name}</span>
         <span>{date}</span>
-      
       </div>
     </div>
   );

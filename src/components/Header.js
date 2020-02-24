@@ -9,7 +9,7 @@ class Header extends Component{
         <nav>
           <img src='http://bit.ly/2OnTTpq' alt='Logo' />
           <div>
-            <span>My profile</span>
+            <strong>My profile</strong >
             <i className='material-icons'>account_circle</i>
           </div>
         </nav>
