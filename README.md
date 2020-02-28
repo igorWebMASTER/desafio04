@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 4: Introdução ao React
+  Desafio 4
 </h3>
 
 <p align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
