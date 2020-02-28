@@ -17,7 +17,7 @@ Nessa aplicação foi desenvolvida uma interface semelhante com a do Facebook ut
 As informações contidas na interface são estáticas e não refletem nenhuma API REST ou back-end.
 
 ## :Tela da Aplicação
-![Facebook](.github/facebook.png)
+![Facebook](github/facebook.png)
 
 
 ## :memo: Licença
