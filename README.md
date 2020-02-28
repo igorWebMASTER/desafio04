@@ -10,7 +10,7 @@
 
 
 
-Criar uma aplicação do zero utilizando Webpack, Babel, Webpack Dev Server e ReactJS.
+Aplicação do zero utilizando Webpack, Babel, Webpack Dev Server e ReactJS.
 
 Nessa aplicação foi desenvolvida uma interface semelhante com a do Facebook utilizando React.
 
