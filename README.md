@@ -27,4 +27,4 @@ O layout da aplicação está [nesse link](.github/layout.sketch) que pode ser a
 
 Na imagem abaixo destaquei cada componente que você criará e abaixo da imagem está a descrição e responsabilidades de cada um:
 
-https://user-images.githubusercontent.com/47211806/75942457-2bf4cb80-5e71-11ea-925c-0113e1a33731.png
+
